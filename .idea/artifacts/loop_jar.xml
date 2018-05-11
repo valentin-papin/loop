@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="loop:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/loop_jar</output-path>
+    <root id="archive" name="loop.jar">
+      <element id="module-output" name="loop" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/original-jline-2.14.7-SNAPSHOT.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../libraries/jansi-1.17.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
